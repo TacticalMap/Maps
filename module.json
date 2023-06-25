@@ -1,0 +1,35 @@
+{
+  "name": "tacticalmap-p73",
+  "id": "tacticalmap-p73",
+  "title": "Noisy neighbors",
+  "description": "The area of the city next to the bridge, which runs along the fortress wall. The set has the roofs of the houses. And also a version of the map without the city.",
+  "author": "Tactical Master",
+  "authors": [],
+  "url": "https://www.patreon.com/tacticalmap",
+  "flags": {},
+  "version": "1.1",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "11",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "noisy-neighbors",
+      "label": "Noisy neighbors",
+      "path": "packs/noisy-neighbors.db",
+      "type": "Scene",
+	  "entity": "Scene",
+      "module": "noisy-neighbors",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://www.dropbox.com/scl/fi/k999pmqh2ewqos3f30ifs/module.json?dl=1",
+  "download": "https://www.dropbox.com/scl/fi/fvxlf7gnt5asyca5jcn71/tacticalmap-p73.zip?dl=1",
+  "protected": false,
+  "coreTranslation": false
+}
