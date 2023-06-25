@@ -28,7 +28,7 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://www.dropbox.com/scl/fi/k999pmqh2ewqos3f30ifs/module.json?dl=1",
+  "manifest": "https://github.com/TacticalMap/Maps/blob/main/module.json",
   "download": "https://www.dropbox.com/scl/fi/fvxlf7gnt5asyca5jcn71/tacticalmap-p73.zip?dl=1",
   "protected": false,
   "coreTranslation": false
